@@ -1,0 +1,1 @@
+This project is used to calculate and figure out if the ranging distance obtained from the tags/anchors are acceptable, the disntance test is passed if the range of distance is equal to or less than 15 (cm)
